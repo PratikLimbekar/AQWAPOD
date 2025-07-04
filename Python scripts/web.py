@@ -11,7 +11,7 @@ from google import genai
 # import google.generativeai as genai
 
 """API KEY"""
-apikey = "AIzaSyC0BM4NLMLldcPvBlIqwe49xnM2qzYjfJs"
+#apikey here
 client = genai.Client(api_key=apikey)
 
 """
