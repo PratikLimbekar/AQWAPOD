@@ -1,0 +1,24 @@
+.dropdown, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.predict {
+padding: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 0.2s ease;
+  background-color: #6369D1;
+  color: #FEF9FF;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.predict:hover {
+    padding: 30px;
+  }
+
+.dropdown {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 100px;
+}
